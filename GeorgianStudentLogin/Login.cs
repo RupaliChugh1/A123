@@ -8,5 +8,7 @@ namespace GeorgianStudentLogin
 {
     internal class Login
     {
+        Close();
     }
 }
+
